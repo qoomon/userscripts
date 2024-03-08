@@ -2,6 +2,7 @@
 
 - [kleinanzeigen-duplicate-ad](https://github.com/qoomon/userscripts--kleinanzeigen-duplicate-ad)
 - [disable-open-search](https://github.com/qoomon/userscripts--disable-open-search)
+- [bypass-safe-links](https://github.com/qoomon/userscripts--bypass-safe-links)
   
 ### Account Indicators
 - [aws-visual-account-indicator](https://github.com/qoomon/userscripts--aws-visual-account-indicator)
