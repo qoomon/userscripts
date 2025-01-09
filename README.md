@@ -1,4 +1,4 @@
-# [userscripts](https://github.com/qoomon?tab=repositories&q=userscripts-)
+# [userscripts](https://github.com/qoomon?tab=repositories&q=userscripts--)
 - [google-search-result-stats](https://github.com/qoomon/userscript-google-search-result-stats)
 - [disable-open-search](https://github.com/qoomon/userscripts--disable-open-search)
 - [bypass-safe-links](https://github.com/qoomon/userscripts--bypass-safe-links)
