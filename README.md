@@ -1,5 +1,6 @@
 # userscripts &nbsp; [![Userscripts](https://img.shields.io/badge/qoomon-Userscripts-blue)](https://github.com/qoomon?tab=repositories&q=userscripts--)
 - [google-search-result-stats](https://github.com/qoomon/userscript-google-search-result-stats)
+- [userscript-google-search-maps-link](https://github.com/qoomon/userscript-google-search-maps-link)
 - [disable-open-search](https://github.com/qoomon/userscripts--disable-open-search)
 - [bypass-safe-links](https://github.com/qoomon/userscripts--bypass-safe-links)
   
